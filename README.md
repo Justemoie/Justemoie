@@ -19,7 +19,7 @@ I'm a **.NET Developer** with a focus on building scalable and robust backend sy
 ## Contact me
 
 - Email: [ivnkuzmenka@gmail.com](mailto:ivnkuzmenka@gmail.com)
-- LinkedIn: [profile]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/ivan-kuzmenka-aa7658293/))
+- LinkedIn: [profile](https://www.linkedin.com/in/ivan-kuzmenka-aa7658293/)
 <!--
 **Justemoie/Justemoie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
