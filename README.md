@@ -1,6 +1,6 @@
 ## About Me
 
-I'm a **.NET Developer** with a focus on building scalable and robust backend systems. I'm skilled at using technology to optimize product development cycles, reduce costs and implement API services with the help of Microsoft .NET tech stack <b>(.NET Core, REST API)</b>, adhering to pure code development methods and Agile methodologies. My ability to learn quickly, passion for the latest technologies, contribute to my effectiveness in achieving successful results and high standards in software development. I'm currently studying Computer Engineering at BSUIR FCSaN and honing my skills in backend development.
+I'm a **Software Engineer specializing in .NET** with a focus on building scalable and robust backend systems. I'm skilled at using technology to optimize product development cycles, reduce costs and implement API services with the help of Microsoft .NET tech stack <b>(.NET Core, REST API)</b>, adhering to pure code development methods and Agile methodologies. My ability to learn quickly, passion for the latest technologies, contribute to my effectiveness in achieving successful results and high standards in software development. I'm currently studying Computer Engineering at BSUIR FCSaN and honing my skills in backend development.
 
 ## Tech Skills
 
